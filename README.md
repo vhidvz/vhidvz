@@ -8,6 +8,8 @@ echo "I ♥️ open community 🎯 manjaro linux 🎉🐍🥳" >> vhid.vz && \
 echo "👯 I’m interested to collaborate on open-source projects" >> vhid.vz && \
 cat vhid.vz
 ```
+:bar_chart: Weekly Development Breakdown
+
 <!--START_SECTION:waka-->
 
 ```text
