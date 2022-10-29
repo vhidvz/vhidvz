@@ -1,5 +1,7 @@
 ## Hi There! 👋
 
+[![wakatime](https://wakatime.com/badge/user/b68591ab-22c5-4330-8827-a6e8ce37d9d8.svg)](https://wakatime.com/@b68591ab-22c5-4330-8827-a6e8ce37d9d8)
+
 ```sh
 touch vhid.vz && \
 echo "Master of computer science" > vhid.vz && \
