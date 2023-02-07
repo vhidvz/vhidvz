@@ -43,7 +43,7 @@ Other                        ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-### ☕ Buy Me A Coffe :
+### ☕ Buy Me a Coffe :
 
 - Tron (TRX): TLfejuJFdQWTKX1WWF6PnzeguwAAbWrkMq
 - Tron (BEP20): 0x5C59f6e2fA4079c29a717B13b4EAbA0a3e45f498
