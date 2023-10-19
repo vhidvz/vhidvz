@@ -46,5 +46,5 @@ JSON                              ▓░░░░░░░░░░░░░░�
 
 ### ☕ Buy Me a Coffe :
 
-- TRX (TRON): TLfejuJFdQWTKX1WWF6PnzeguwAAbWrkMq
+- TRX (TRC20): TLfejuJFdQWTKX1WWF6PnzeguwAAbWrkMq
 - TRX (BEP20): 0x5C59f6e2fA4079c29a717B13b4EAbA0a3e45f498
