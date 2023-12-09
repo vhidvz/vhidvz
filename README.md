@@ -2,9 +2,11 @@
 
 [![wakatime](https://wakatime.com/badge/user/b68591ab-22c5-4330-8827-a6e8ce37d9d8.svg)](https://wakatime.com/@b68591ab-22c5-4330-8827-a6e8ce37d9d8)
 
-<a href="https://www.coffeebede.com/vhid"><img class="img-fluid" width="250" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
+<div>
+  <a href="https://www.coffeebede.com/vhid"><img class="img-fluid" width="250" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
+</div>
 
-### :rocket: Languages and Tools :
+### Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="50" height="50"/>&nbsp;
