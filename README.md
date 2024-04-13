@@ -38,11 +38,7 @@ cat vhid.vz
 <!--START_SECTION:waka-->
 
 ```txt
-YAML                              ████████▒░░░░░░░░░░░░░░░░   33.17 %
-Python                            ██████░░░░░░░░░░░░░░░░░░░   23.62 %
-TypeScript                        █████░░░░░░░░░░░░░░░░░░░░   20.09 %
-Bash                              ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
-Protocol Buffer                   ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
