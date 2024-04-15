@@ -38,7 +38,10 @@ cat vhid.vz
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python                       ███████████▓░░░░░░░░░░░░░   46.04 %
+TypeScript                   ████████▒░░░░░░░░░░░░░░░░   33.32 %
+Vue.js                       ███▒░░░░░░░░░░░░░░░░░░░░░   13.86 %
+Bash                         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
 ```
 
 <!--END_SECTION:waka-->
