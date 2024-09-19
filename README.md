@@ -49,5 +49,5 @@ Docker                       ▓░░░░░░░░░░░░░░░░
 
 ### ☕ Buy Me a Coffe :
 
-- TRX (TRC20): TLfejuJFdQWTKX1WWF6PnzeguwAAbWrkMq
-- BNB (BSC): 0x5C59f6e2fA4079c29a717B13b4EAbA0a3e45f498
+- Bitcoin (BTC): bc1quh0t2xw5497rpwh93lgzwpylh428236fulraqx
+- Ethereum (ETH): 0xb03E072201f47acB6E74950aff96F204fe060D25
