@@ -1,8 +1,8 @@
 ## Hi There! 👋
 
-[![wakatime](https://wakatime.com/badge/user/b68591ab-22c5-4330-8827-a6e8ce37d9d8.svg)](https://wakatime.com/@b68591ab-22c5-4330-8827-a6e8ce37d9d8)
-
 I am a senior full-stack engineer with +10 years of experience in software design and development, specializing in creating web apps for projects of all sizes. I am passionate about Python and TypeScript, and I am also exploring the Rust programming language to further enhance my skill set. Constantly exploring new technologies to improve efficiency and seeking innovative solutions to complex problems are central to my approach. Throughout my career, I’ve gained valuable teamwork and leadership skills, and I’m eager to contribute to a team with similar ambitions and goals.
+
+[![wakatime](https://wakatime.com/badge/user/b68591ab-22c5-4330-8827-a6e8ce37d9d8.svg)](https://wakatime.com/@b68591ab-22c5-4330-8827-a6e8ce37d9d8)
 
 ### Languages and Tools :
 
