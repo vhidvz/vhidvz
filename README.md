@@ -4,10 +4,6 @@
 
 I am a senior full-stack engineer with +10 years of experience in software design and development, specializing in creating web apps for projects of all sizes. I am passionate about Python and TypeScript, and I am also exploring the Rust programming language to further enhance my skill set. Constantly exploring new technologies to improve efficiency and seeking innovative solutions to complex problems are central to my approach. Throughout my career, I’ve gained valuable teamwork and leadership skills, and I’m eager to contribute to a team with similar ambitions and goals.
 
-<div>
-  <a href="https://www.coffeebede.com/vhid"><img class="img-fluid" width="250" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
-</div>
-
 ### Languages and Tools :
 
 <div>
