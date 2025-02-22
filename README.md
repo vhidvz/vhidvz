@@ -43,8 +43,3 @@ Bash                              ░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-### ☕ Buy Me a Coffe :
-
-- Bitcoin (BTC): bc1quh0t2xw5497rpwh93lgzwpylh428236fulraqx
-- Ethereum (ETH): 0xb03E072201f47acB6E74950aff96F204fe060D25
