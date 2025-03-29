@@ -26,7 +26,7 @@ As a senior full-stack engineer with over a decade of experience in software des
 ```sh
 touch vhid.vz && \
 echo "Master of computer science" > vhid.vz && \
-echo "Web full-stack engineer 🙈🙉🙊" >> vhid.vz && \
+echo "Web full-stack developer 🙈🙉🙊" >> vhid.vz && \
 echo "I ♥️ open community 🎯 manjaro linux 🎉🐍🥳" >> vhid.vz
 cat vhid.vz
 ```
