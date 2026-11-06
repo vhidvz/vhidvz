@@ -5,6 +5,7 @@ As a senior full-stack engineer with over a decade of experience in software des
 </p>
 
 [![wakatime](https://wakatime.com/badge/user/b68591ab-22c5-4330-8827-a6e8ce37d9d8.svg)](https://wakatime.com/@b68591ab-22c5-4330-8827-a6e8ce37d9d8)
+
 [![roadmap.sh](https://roadmap.sh/card/wide/64f08c4ab128dce3cb95fbe1?variant=dark&roadmaps=ai-engineer%2Cforward-deployed-engineer%2Cengineering-manager%2Cmlops)](https://roadmap.sh)
 
 <div>
